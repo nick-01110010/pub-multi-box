@@ -1,0 +1,9 @@
+__pycache__
+.vs
+bin
+database
+Client-FileList.txt
+Client-Version.txt
+LaunchNet7.cfg
+Net7-FileList.txt
+Net7-Version.txt
