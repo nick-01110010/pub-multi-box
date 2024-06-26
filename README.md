@@ -1,2 +1,1 @@
-# pub-multi-box
-public project
+# enb-multi-box
