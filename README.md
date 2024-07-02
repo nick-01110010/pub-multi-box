@@ -8,7 +8,7 @@ The functionality of the program is set up like tabs in a notebook. The tabs are
 
 ## Add Characters Tab:
 
-The add characters tab allows for the user to create, edit, and delete characters for a given client and the character account which that client is controlling. It has various inputs such as character name, password, level, etc. The user adds all the characters they want and then moves to the next tab to create a fleet of characters.
+- The add characters tab allows for the user to create, edit, and delete characters for a given client and the character account which that client is controlling. It has various inputs such as character name, password, level, etc. The user adds all the characters they want and then moves to the next tab to create a fleet of characters.
 
 ## Create Fleet Tab:
 
